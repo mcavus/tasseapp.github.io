@@ -77,6 +77,10 @@ body {
   margin-bottom: 25px;
 }
 
+#logo {
+    width: 133px;
+}
+
 #slogan {
     padding-top: 25px;
     margin: 25px auto;
